@@ -1,3 +1,6 @@
+--index-url https://pypi.tuna.tsinghua.edu.cn/simple/
+--extra-index-url https://mirrors.aliyun.com/pypi/simple/
+--extra-index-url https://pypi.org/simple/
 altair==6.0.0
 attrs==26.1.0
 blinker==1.9.0
