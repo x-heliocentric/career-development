@@ -1,0 +1,4590 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "generated_date": "2024-04-15",
+    "total_jobs": 46,
+    "generation_method": "algorithm + template",
+    "description": "岗位垂直晋升路径图谱，包含每个岗位的晋升路径、要求和年限"
+  },
+  "jobs": {
+    "实施工程师": {
+      "description": "岗位：实施工程师\n核心技能：项目管理, 需求分析\n薪资范围：1000-40000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 数学类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级实施工程师",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在实施工程师岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级实施工程师",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在实施工程师岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深实施工程师",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在实施工程师岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家实施工程师",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在实施工程师岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师实施工程师",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在实施工程师岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "科研人员": {
+      "description": "岗位：科研人员\n核心技能：数据分析, 项目管理\n薪资范围：220-60000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 数学类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级科研人员",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在科研人员岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级科研人员",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在科研人员岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深科研人员",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在科研人员岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家科研人员",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在科研人员岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师科研人员",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在科研人员岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "java开发工程师": {
+      "description": "岗位：java开发工程师\n核心技能：JavaScript, Java, 开发, C, 系统\n薪资范围：1000-62500元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 数学类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级java开发工程师",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在java开发工程师岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级java开发工程师",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在java开发工程师岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深java开发工程师",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在java开发工程师岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家java开发工程师",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在java开发工程师岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师java开发工程师",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在java开发工程师岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "软件测试工程师": {
+      "description": "岗位：软件测试工程师\n核心技能：测试\n薪资范围：1000-50000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 数学类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级软件测试工程师",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在软件测试工程师岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级软件测试工程师",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在软件测试工程师岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深软件测试工程师",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在软件测试工程师岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家软件测试工程师",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在软件测试工程师岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师软件测试工程师",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在软件测试工程师岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "c/c++开发工程师": {
+      "description": "岗位：c/c++开发工程师\n核心技能：C++, 开发, C, 系统, 软件\n薪资范围：1000-60000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 数学类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级c/c++开发工程师",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在c/c++开发工程师岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级c/c++开发工程师",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在c/c++开发工程师岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深c/c++开发工程师",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在c/c++开发工程师岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家c/c++开发工程师",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在c/c++开发工程师岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师c/c++开发工程师",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在c/c++开发工程师岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "技术支持工程师": {
+      "description": "岗位：技术支持工程师\n核心技能：\n薪资范围：1000-50000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 数学类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级技术支持工程师",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在技术支持工程师岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级技术支持工程师",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在技术支持工程师岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深技术支持工程师",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在技术支持工程师岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家技术支持工程师",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在技术支持工程师岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师技术支持工程师",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在技术支持工程师岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "前端开发工程师": {
+      "description": "岗位：前端开发工程师\n核心技能：JavaScript, C, Java, 开发\n薪资范围：1000-53333元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 数学类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级前端开发工程师",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在前端开发工程师岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级前端开发工程师",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在前端开发工程师岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深前端开发工程师",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在前端开发工程师岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家前端开发工程师",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在前端开发工程师岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师前端开发工程师",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在前端开发工程师岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "质检员": {
+      "description": "岗位：质检员\n核心技能：数据处理, 数据分析\n薪资范围：3000-13000元/月\n学历要求：大专, 本科\n专业要求：统计类, 电子信息类, 计算机类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级质检员",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在质检员岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级质检员",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在质检员岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深质检员",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在质检员岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家质检员",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在质检员岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师质检员",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在质检员岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "网络销售": {
+      "description": "岗位：网络销售\n核心技能：\n薪资范围：4000-30000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 统计类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级网络销售",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在网络销售岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级网络销售",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在网络销售岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深网络销售",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在网络销售岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家网络销售",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在网络销售岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师网络销售",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在网络销售岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "bd经理": {
+      "description": "岗位：bd经理\n核心技能：项目管理, 数据分析, 需求分析, 开发\n薪资范围：3000-40000元/月\n学历要求：大专, 本科\n专业要求：统计类, 计算机类, 金融类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级bd经理",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "经理",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在bd经理岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级bd经理",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "经理",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在bd经理岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深bd经理",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "经理",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在bd经理岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家bd经理",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "经理",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在bd经理岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师bd经理",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "经理",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在bd经理岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "app推广": {
+      "description": "岗位：app推广\n核心技能：\n薪资范围：3000-20000元/月\n学历要求：大专, 不限\n专业要求：计算机类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级app推广",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在app推广岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级app推广",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在app推广岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深app推广",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在app推广岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家app推广",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在app推广岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师app推广",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在app推广岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "资料管理": {
+      "description": "岗位：资料管理\n核心技能：数据处理, 软件\n薪资范围：1760-12000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 数学类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级资料管理",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在资料管理岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级资料管理",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在资料管理岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深资料管理",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在资料管理岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家资料管理",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在资料管理岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师资料管理",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在资料管理岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "猎头顾问": {
+      "description": "岗位：猎头顾问\n核心技能：数据分析, 项目管理, 需求分析\n薪资范围：2200-60000元/月\n学历要求：大专, 本科\n专业要求：计算机类, 统计类, 电子信息类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级猎头顾问",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在猎头顾问岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级猎头顾问",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在猎头顾问岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深猎头顾问",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在猎头顾问岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家猎头顾问",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在猎头顾问岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师猎头顾问",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在猎头顾问岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "档案管理": {
+      "description": "岗位：档案管理\n核心技能：软件\n薪资范围：1320-12000元/月\n学历要求：大专, 本科\n专业要求：计算机类, 数学类, 统计类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级档案管理",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在档案管理岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级档案管理",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在档案管理岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深档案管理",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在档案管理岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家档案管理",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在档案管理岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师档案管理",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在档案管理岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "招聘专员助理": {
+      "description": "岗位：招聘专员助理\n核心技能：数据分析, 软件\n薪资范围：1000-16000元/月\n学历要求：大专, 本科\n专业要求：统计类, 计算机类, 金融类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "商务专员",
+            "from_level": 0.5,
+            "to_level": 2,
+            "from_level_name": "助理",
+            "to_level_name": "中级",
+            "skill_similarity": 0.5,
+            "salary_progression": 1.26,
+            "overall_score": 0.55,
+            "years": "2-4年",
+            "requirements": [
+              "在招聘专员助理岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          }
+        ]
+      }
+    },
+    "储备经理人": {
+      "description": "岗位：储备经理人\n核心技能：项目管理, 数据分析, 需求分析\n薪资范围：3000-40000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 统计类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级储备经理人",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "经理",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在储备经理人岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级储备经理人",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "经理",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在储备经理人岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深储备经理人",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "经理",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在储备经理人岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家储备经理人",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "经理",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在储备经理人岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师储备经理人",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "经理",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在储备经理人岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "统计员": {
+      "description": "岗位：统计员\n核心技能：软件\n薪资范围：2000-17500元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 统计类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级统计员",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在统计员岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级统计员",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在统计员岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深统计员",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在统计员岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家统计员",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在统计员岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师统计员",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在统计员岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "销售工程师": {
+      "description": "岗位：销售工程师\n核心技能：项目管理, 数据分析, 需求分析, 开发\n薪资范围：3300-30000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 电子信息类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级销售工程师",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在销售工程师岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级销售工程师",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在销售工程师岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深销售工程师",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在销售工程师岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家销售工程师",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在销售工程师岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师销售工程师",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在销售工程师岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "售后客服": {
+      "description": "岗位：售后客服\n核心技能：数据分析, 需求分析\n薪资范围：2000-21666元/月\n学历要求：大专\n专业要求：计算机类, 自动化类, 金融类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级售后客服",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在售后客服岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级售后客服",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在售后客服岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深售后客服",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在售后客服岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家售后客服",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在售后客服岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师售后客服",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在售后客服岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "项目专员助理": {
+      "description": "岗位：项目专员助理\n核心技能：数据处理, 项目管理, 数据分析, 软件, 需求分析\n薪资范围：1760-20000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 数学类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "猎头顾问",
+            "from_level": 0.5,
+            "to_level": 2,
+            "from_level_name": "助理",
+            "to_level_name": "中级",
+            "skill_similarity": 0.6,
+            "salary_progression": 1.58,
+            "overall_score": 0.59,
+            "years": "2-4年",
+            "requirements": [
+              "在项目专员助理岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "管培生储备干部",
+            "from_level": 0.5,
+            "to_level": 2,
+            "from_level_name": "助理",
+            "to_level_name": "中级",
+            "skill_similarity": 0.6,
+            "salary_progression": 1.27,
+            "overall_score": 0.59,
+            "years": "2-4年",
+            "requirements": [
+              "在项目专员助理岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          }
+        ]
+      }
+    },
+    "英语翻译": {
+      "description": "岗位：英语翻译\n核心技能：C, 软件\n薪资范围：2200-22000元/月\n学历要求：大专, 本科\n专业要求：统计类, 电子信息类, 计算机类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级英语翻译",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在英语翻译岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级英语翻译",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在英语翻译岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深英语翻译",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在英语翻译岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家英语翻译",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在英语翻译岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师英语翻译",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在英语翻译岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "网络客服": {
+      "description": "岗位：网络客服\n核心技能：\n薪资范围：2200-16000元/月\n学历要求：大专, 本科\n专业要求：统计类, 电子信息类, 计算机类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级网络客服",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在网络客服岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级网络客服",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在网络客服岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深网络客服",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在网络客服岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家网络客服",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在网络客服岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师网络客服",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在网络客服岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "大客户代表": {
+      "description": "岗位：大客户代表\n核心技能：项目管理, 需求分析, 开发\n薪资范围：220-30000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 数学类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级大客户代表",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在大客户代表岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级大客户代表",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在大客户代表岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深大客户代表",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在大客户代表岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家大客户代表",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在大客户代表岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师大客户代表",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在大客户代表岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "项目经理主管": {
+      "description": "岗位：项目经理主管\n核心技能：项目管理, 数据分析, 需求分析\n薪资范围：1980-27083元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 数学类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级项目经理主管",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "经理",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在项目经理主管岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级项目经理主管",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "经理",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在项目经理主管岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深项目经理主管",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "经理",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在项目经理主管岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家项目经理主管",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "经理",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在项目经理主管岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师项目经理主管",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "经理",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在项目经理主管岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "培训师": {
+      "description": "岗位：培训师\n核心技能：开发\n薪资范围：3000-20000元/月\n学历要求：大专, 本科\n专业要求：电子信息类, 计算机类, 经济类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级培训师",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在培训师岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级培训师",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在培训师岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深培训师",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在培训师岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家培训师",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在培训师岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师培训师",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在培训师岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "销售助理": {
+      "description": "岗位：销售助理\n核心技能：数据库, 数据处理, 地理信息, 项目管理, 需求分析\n薪资范围：220-17333元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 统计类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "销售工程师",
+            "from_level": 0.5,
+            "to_level": 2,
+            "from_level_name": "助理",
+            "to_level_name": "中级",
+            "skill_similarity": 0.3,
+            "salary_progression": 1.8,
+            "overall_score": 0.72,
+            "years": "2-4年",
+            "requirements": [
+              "在销售助理岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "广告销售",
+            "from_level": 0.5,
+            "to_level": 2,
+            "from_level_name": "助理",
+            "to_level_name": "中级",
+            "skill_similarity": 0.222,
+            "salary_progression": 1.22,
+            "overall_score": 0.639,
+            "years": "2-4年",
+            "requirements": [
+              "在销售助理岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          }
+        ]
+      }
+    },
+    "管培生储备干部": {
+      "description": "岗位：管培生储备干部\n核心技能：数据分析, 项目管理, 需求分析\n薪资范围：3000-25000元/月\n学历要求：本科\n专业要求：自动化类, 计算机类, 统计类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "储备经理人",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "经理",
+            "skill_similarity": 1.0,
+            "salary_progression": 1.22,
+            "overall_score": 0.6,
+            "years": "3-5年",
+            "requirements": [
+              "在管培生储备干部岗位上工作3-5年",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "项目经理主管",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "经理",
+            "skill_similarity": 1.0,
+            "salary_progression": 1.46,
+            "overall_score": 0.6,
+            "years": "3-5年",
+            "requirements": [
+              "在管培生储备干部岗位上工作3-5年",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "项目招投标": {
+      "description": "岗位：项目招投标\n核心技能：项目管理, 软件\n薪资范围：3000-12000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 统计类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级项目招投标",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在项目招投标岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级项目招投标",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在项目招投标岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深项目招投标",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在项目招投标岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家项目招投标",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在项目招投标岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师项目招投标",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在项目招投标岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "法务专员助理": {
+      "description": "岗位：法务专员助理\n核心技能：数据分析, 数据处理, 软件\n薪资范围：2000-29166元/月\n学历要求：大专, 本科\n专业要求：计算机类, 统计类, 电子信息类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "初级法务专员",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 0.5,
+            "to_level": 1,
+            "from_level_name": "助理",
+            "to_level_name": "初级",
+            "source": "level_template",
+            "requirements": [
+              "在法务专员助理岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": []
+          },
+          {
+            "to_job": "中级法务专员",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 0.5,
+            "to_level": 2,
+            "from_level_name": "助理",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在法务专员助理岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级法务专员",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 0.5,
+            "to_level": 3,
+            "from_level_name": "助理",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在法务专员助理岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深法务专员",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 0.5,
+            "to_level": 3.5,
+            "from_level_name": "助理",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在法务专员助理岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家法务专员",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 0.5,
+            "to_level": 4,
+            "from_level_name": "助理",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在法务专员助理岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师法务专员",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 0.5,
+            "to_level": 4.5,
+            "from_level_name": "助理",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在法务专员助理岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "销售运营": {
+      "description": "岗位：销售运营\n核心技能：数据库, 数据处理, 项目管理, 数据分析, 数据建模\n薪资范围：1980-20000元/月\n学历要求：大专, 本科\n专业要求：计算机类, 数学类, 统计类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级销售运营",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在销售运营岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级销售运营",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在销售运营岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深销售运营",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在销售运营岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家销售运营",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在销售运营岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师销售运营",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在销售运营岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "总助ceo助理董事长助理": {
+      "description": "岗位：总助ceo助理董事长助理\n核心技能：数据处理, 项目管理\n薪资范围：1760-35000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 电子信息类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "广告销售",
+            "from_level": 0.5,
+            "to_level": 2,
+            "from_level_name": "助理",
+            "to_level_name": "中级",
+            "skill_similarity": 1.0,
+            "salary_progression": 0.71,
+            "overall_score": 0.55,
+            "years": "2-4年",
+            "requirements": [
+              "在总助ceo助理董事长助理岗位上工作2-4年",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          }
+        ]
+      }
+    },
+    "广告销售": {
+      "description": "岗位：广告销售\n核心技能：数据处理, 项目管理\n薪资范围：1760-40000元/月\n学历要求：大专, 本科\n专业要求：统计类, 电子信息类, 计算机类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级广告销售",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在广告销售岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级广告销售",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在广告销售岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深广告销售",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在广告销售岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家广告销售",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在广告销售岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师广告销售",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在广告销售岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "产品专员助理": {
+      "description": "岗位：产品专员助理\n核心技能：数据库, 数据处理, 项目管理, 开发, 需求分析\n薪资范围：1320-17500元/月\n学历要求：大专, 本科\n专业要求：统计类, 电子信息类, 计算机类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "游戏推广",
+            "from_level": 0.5,
+            "to_level": 2,
+            "from_level_name": "助理",
+            "to_level_name": "中级",
+            "skill_similarity": 0.778,
+            "salary_progression": 2.6,
+            "overall_score": 0.661,
+            "years": "2-4年",
+            "requirements": [
+              "在产品专员助理岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "销售工程师",
+            "from_level": 0.5,
+            "to_level": 2,
+            "from_level_name": "助理",
+            "to_level_name": "中级",
+            "skill_similarity": 0.5,
+            "salary_progression": 1.48,
+            "overall_score": 0.55,
+            "years": "2-4年",
+            "requirements": [
+              "在产品专员助理岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          }
+        ]
+      }
+    },
+    "内容审核": {
+      "description": "岗位：内容审核\n核心技能：数据处理, 数据分析\n薪资范围：1540-15000元/月\n学历要求：大专, 本科\n专业要求：统计类, 计算机类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级内容审核",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在内容审核岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级内容审核",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在内容审核岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深内容审核",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在内容审核岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家内容审核",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在内容审核岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师内容审核",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在内容审核岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "律师助理": {
+      "description": "岗位：律师助理\n核心技能：软件\n薪资范围：1000-20000元/月\n学历要求：大专, 本科\n专业要求：计算机类, 自动化类, 金融类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "档案管理",
+            "from_level": 0.5,
+            "to_level": 2,
+            "from_level_name": "助理",
+            "to_level_name": "中级",
+            "skill_similarity": 1.0,
+            "salary_progression": 1.39,
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "requirements": [
+              "在律师助理岗位上工作2-4年",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "统计员",
+            "from_level": 0.5,
+            "to_level": 2,
+            "from_level_name": "助理",
+            "to_level_name": "中级",
+            "skill_similarity": 1.0,
+            "salary_progression": 1.56,
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "requirements": [
+              "在律师助理岗位上工作2-4年",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          }
+        ]
+      }
+    },
+    "知识产权专利代理": {
+      "description": "岗位：知识产权专利代理\n核心技能：数据分析, 需求分析\n薪资范围：2200-35000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 数学类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级知识产权专利代理",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在知识产权专利代理岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级知识产权专利代理",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在知识产权专利代理岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深知识产权专利代理",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在知识产权专利代理岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家知识产权专利代理",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在知识产权专利代理岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师知识产权专利代理",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在知识产权专利代理岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "电话销售": {
+      "description": "岗位：电话销售\n核心技能：需求分析, 开发\n薪资范围：3000-25000元/月\n学历要求：大专, 本科\n专业要求：统计类, 计算机类, 自动化类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级电话销售",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在电话销售岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级电话销售",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在电话销售岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深电话销售",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在电话销售岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家电话销售",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在电话销售岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师电话销售",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在电话销售岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "运营助理专员": {
+      "description": "岗位：运营助理专员\n核心技能：数据处理, 项目管理, 数据分析, 软件, 需求分析\n薪资范围：3000-14083元/月\n学历要求：大专, 本科\n专业要求：计算机类, 数学类, 统计类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "猎头顾问",
+            "from_level": 0.5,
+            "to_level": 2,
+            "from_level_name": "助理",
+            "to_level_name": "中级",
+            "skill_similarity": 0.6,
+            "salary_progression": 1.59,
+            "overall_score": 0.59,
+            "years": "2-4年",
+            "requirements": [
+              "在运营助理专员岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "管培生储备干部",
+            "from_level": 0.5,
+            "to_level": 2,
+            "from_level_name": "助理",
+            "to_level_name": "中级",
+            "skill_similarity": 0.6,
+            "salary_progression": 1.27,
+            "overall_score": 0.59,
+            "years": "2-4年",
+            "requirements": [
+              "在运营助理专员岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          }
+        ]
+      }
+    },
+    "游戏运营": {
+      "description": "岗位：游戏运营\n核心技能：数据库, 数据处理, 项目管理, 需求分析, 数据分析\n薪资范围：660-20000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 统计类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级游戏运营",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在游戏运营岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级游戏运营",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在游戏运营岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深游戏运营",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在游戏运营岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家游戏运营",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在游戏运营岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师游戏运营",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在游戏运营岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "日语翻译": {
+      "description": "岗位：日语翻译\n核心技能：\n薪资范围：2200-21000元/月\n学历要求：大专, 本科\n专业要求：统计类, 电子信息类, 计算机类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级日语翻译",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在日语翻译岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级日语翻译",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在日语翻译岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深日语翻译",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在日语翻译岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家日语翻译",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在日语翻译岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师日语翻译",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在日语翻译岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "储备干部": {
+      "description": "岗位：储备干部\n核心技能：项目管理, 需求分析\n薪资范围：3300-60000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 统计类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级储备干部",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在储备干部岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级储备干部",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在储备干部岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深储备干部",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在储备干部岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家储备干部",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在储备干部岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师储备干部",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在储备干部岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "社区运营": {
+      "description": "岗位：社区运营\n核心技能：项目管理, 数据分析, 需求分析\n薪资范围：5000-20000元/月\n学历要求：大专\n专业要求：计算机类, 金融类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级社区运营",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在社区运营岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级社区运营",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在社区运营岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深社区运营",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在社区运营岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家社区运营",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在社区运营岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师社区运营",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在社区运营岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "商务专员": {
+      "description": "岗位：商务专员\n核心技能：数据分析, 项目管理, 需求分析, 软件\n薪资范围：1100-40000元/月\n学历要求：大专, 本科\n专业要求：自动化类, 计算机类, 统计类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "储备经理人",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "经理",
+            "skill_similarity": 0.75,
+            "salary_progression": 1.4,
+            "overall_score": 0.5,
+            "years": "3-5年",
+            "requirements": [
+              "在商务专员岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "项目经理主管",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "经理",
+            "skill_similarity": 0.75,
+            "salary_progression": 1.67,
+            "overall_score": 0.5,
+            "years": "3-5年",
+            "requirements": [
+              "在商务专员岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "咨询顾问": {
+      "description": "岗位：咨询顾问\n核心技能：项目管理, 数据分析, 需求分析\n薪资范围：2000-83333元/月\n学历要求：大专, 本科\n专业要求：计算机类, 统计类, 经济类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级咨询顾问",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在咨询顾问岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级咨询顾问",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在咨询顾问岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深咨询顾问",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在咨询顾问岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家咨询顾问",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在咨询顾问岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师咨询顾问",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在咨询顾问岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "电话客服": {
+      "description": "岗位：电话客服\n核心技能：\n薪资范围：3000-17000元/月\n学历要求：大专, 本科\n专业要求：计算机类, 自动化类, 金融类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级电话客服",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在电话客服岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级电话客服",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在电话客服岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深电话客服",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在电话客服岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家电话客服",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在电话客服岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师电话客服",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在电话客服岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    },
+    "游戏推广": {
+      "description": "岗位：游戏推广\n核心技能：数据库, 数据处理, 平台, 项目管理, 需求分析\n薪资范围：8000-30000元/月\n学历要求：大专\n专业要求：计算机类",
+      "career_path": {
+        "vertical_path": [
+          {
+            "to_job": "中级游戏推广",
+            "overall_score": 0.75,
+            "years": "0.5-1年",
+            "from_level": 2,
+            "to_level": 2,
+            "from_level_name": "中级",
+            "to_level_name": "中级",
+            "source": "level_template",
+            "requirements": [
+              "在游戏推广岗位上工作0.5-1年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目"
+            ],
+            "skills_to_learn": [
+              "架构设计能力"
+            ]
+          },
+          {
+            "to_job": "高级游戏推广",
+            "overall_score": 0.75,
+            "years": "1-2年",
+            "from_level": 2,
+            "to_level": 3,
+            "from_level_name": "中级",
+            "to_level_name": "高级",
+            "source": "level_template",
+            "requirements": [
+              "在游戏推广岗位上工作1-2年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "资深游戏推广",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 3.5,
+            "from_level_name": "中级",
+            "to_level_name": "资深",
+            "source": "level_template",
+            "requirements": [
+              "在游戏推广岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力"
+            ]
+          },
+          {
+            "to_job": "专家游戏推广",
+            "overall_score": 0.75,
+            "years": "2-4年",
+            "from_level": 2,
+            "to_level": 4,
+            "from_level_name": "中级",
+            "to_level_name": "专家",
+            "source": "level_template",
+            "requirements": [
+              "在游戏推广岗位上工作2-4年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          },
+          {
+            "to_job": "架构师游戏推广",
+            "overall_score": 0.75,
+            "years": "3-5年",
+            "from_level": 2,
+            "to_level": 4.5,
+            "from_level_name": "中级",
+            "to_level_name": "架构师",
+            "source": "level_template",
+            "requirements": [
+              "在游戏推广岗位上工作3-5年",
+              "掌握更高阶的专业技能",
+              "主导过至少2个完整的项目",
+              "具备团队管理和指导新人的能力"
+            ],
+            "skills_to_learn": [
+              "架构设计能力",
+              "团队管理能力",
+              "技术决策能力",
+              "战略规划能力",
+              "行业影响力建设"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
