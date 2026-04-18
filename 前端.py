@@ -4,6 +4,44 @@
 模方职航 - 最终完整版（包含岗位画像页面）
 """
 
+# ====================== 【新增前置依赖安装脚本 全程原生pip+国内镜像】======================
+import subprocess
+import sys
+import os
+
+# 强制使用国内清华镜像源，pip极速下载，彻底绕开Streamlit自带uv安装器
+MIRROR_URL = "https://pypi.tuna.tsinghua.edu.cn/simple"
+
+def pip_install(package):
+    """调用系统原生pip安装包，强制镜像源，无报错静默安装"""
+    subprocess.check_call([
+        sys.executable, "-m", "pip", "install",
+        package,
+        "-i", MIRROR_URL,
+        "--upgrade",
+        "--quiet"
+    ])
+
+# 读取你项目里原生requirements.txt的全部依赖，自动全部安装
+requirements_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "requirements.txt")
+with open(requirements_path, "r", encoding="utf-8") as f:
+    all_packages = [line.strip() for line in f.readlines() if line.strip() and not line.startswith("#")]
+
+# 批量原生pip安装所有依赖
+for pkg in all_packages:
+    try:
+        pip_install(pkg)
+    except Exception:
+        continue
+# ==============================================================================
+
+
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+模方职航 - 最终完整版（包含岗位画像页面）
+"""
+
 import streamlit as st
 import requests
 import json
