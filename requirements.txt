@@ -16,9 +16,9 @@ lxml==6.0.3
 MarkupSafe==3.0.3
 narwhals==2.19.0
 networkx==3.4.2
-numpy==1.26.4
+numpy==2.2.6
 packaging==26.0
-pandas==2.1.4
+pandas==2.3.3
 pillow==12.2.0
 plotly==6.7.0
 protobuf==7.34.1
